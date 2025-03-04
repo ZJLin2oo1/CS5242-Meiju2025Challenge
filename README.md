@@ -16,7 +16,7 @@ This repository presents a **multimodal fusion approach** for **emotion and inte
 
 ## 🏗 **Model Structure**
 
-<img src="fig1.png" width="600px">
+<img src="fig1.png" width="800px">
 <img src="fig2.png" width="300px">
 
 ## 📖 **Detailed Report**
